@@ -1,1 +1,2 @@
 This is another file to commit
+This is another change in remote repository
